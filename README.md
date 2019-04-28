@@ -1,0 +1,1 @@
+#This is a automation program that I developed using Ruby, JSON, and Watir. The concept of this program is to create a new browser, navigate to Linkedin, sign in using credentials from the JSON file, navigate to the messages tab, compose and send a message. 
